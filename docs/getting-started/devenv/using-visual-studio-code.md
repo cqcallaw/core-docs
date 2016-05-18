@@ -1,5 +1,7 @@
 # Development using Visual Studio Code
 
+By [Caleb Callaway](https://github.com/cqcallaw)
+
 ## Installation
 1. Download and install the .NET Core if you have not already done so.
 2. [Download and install Visual Studio Code](https://code.visualstudio.com/Docs/editor/setup).
